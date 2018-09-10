@@ -1,0 +1,31 @@
+{
+  "author": "zhangmingfeng",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "egg curl plugin",
+  "eggPlugin": {
+    "name": "curl"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "files": [
+    "app",
+    "config",
+    "agent.js",
+    "app.js"
+  ],
+  "keywords": [
+    "egg",
+    "egg-plugin",
+    "eggPlugin",
+    "curl"
+  ],
+  "license": "MIT",
+  "name": "egg-curl",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmingfeng/egg-curl.git"
+  },
+  "version": "1.0.1"
+}
